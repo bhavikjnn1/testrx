@@ -20,6 +20,360 @@
   </div>
 </div>
 <style>
+
+<div class="div">
+  <div class="div-2">Step 1 of 4</div>
+  <div class="div-3">
+    Get up to 90% savings with
+    <br />
+    GoodRx Gold
+  </div>
+  <div class="div-4">With Gold, you get:</div>
+  <div class="div-5">
+    <div class="div-6">check</div>
+    <div class="div-7">First month free. Cancel anytime.</div>
+  </div>
+  <div class="div-8">
+    <div class="div-9">check</div>
+    <div class="div-10">Access to free delivery on over 950 prescriptions.</div>
+  </div>
+  <div class="div-11">
+    <div class="div-12">check</div>
+    <div class="div-13">Plan options for you and your family.</div>
+  </div>
+  <div class="div-14">
+    Enter your information to start your Gold membership.
+  </div>
+  <div class="div-15">First name</div>
+  <div class="div-16">Last name</div>
+  <div class="div-17">Email address</div>
+  <div class="div-18">Birthdate</div>
+  <div class="div-19">
+    Your name and birthdate must match your prescription.
+  </div>
+  <div class="div-20">
+    <div class="div-21">
+      <div class="div-22">By continuing, you agree to GoodRx’s</div>
+      <div class="div-23">Terms</div>
+      <div class="div-24">and</div>
+    </div>
+    <div class="div-25">
+      <div class="div-26">Privacy Policy</div>
+      <div class="div-27">.</div>
+    </div>
+  </div>
+  <div class="div-28">
+    <div class="div-29"></div>
+    <div class="div-30">
+      I confirm I don’t live in Washington state.
+      <br />
+      <span style="color: rgba(15, 86, 166, 1)">Why is this necessary?</span>
+    </div>
+  </div>
+  <div class="div-31">Join for free</div>
+</div>
+<style>
+  .div {
+    border-radius: 16px;
+    box-shadow: 0px 4px 16px 0px rgba(34, 34, 34, 0.1),
+      0px 1px 2px 0px rgba(34, 34, 34, 0.08);
+    background-color: #fff;
+    align-self: center;
+    display: flex;
+    margin-top: 96px;
+    width: 604px;
+    max-width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 47px 60px;
+  }
+  @media (max-width: 991px) {
+    .div {
+      margin-top: 40px;
+      padding: 0 20px;
+    }
+  }
+  .div-2 {
+    color: #575757;
+    font: 500 13px/155% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+    }
+  }
+  .div-3 {
+    color: #201f1b;
+    margin-top: 15px;
+    font: 500 30px/32px Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+    }
+  }
+  .div-4 {
+    color: #201f1b;
+    margin-top: 18px;
+    font: 15px/160% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      max-width: 100%;
+    }
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 12px;
+    gap: 11px;
+  }
+  .div-6 {
+    color: #008000;
+    font: 9px/18px Inter, sans-serif;
+  }
+  .div-7 {
+    color: #201f1b;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 15px/159% Inter, sans-serif;
+  }
+  .div-8 {
+    display: flex;
+    gap: 11px;
+  }
+  @media (max-width: 991px) {
+    .div-8 {
+      flex-wrap: wrap;
+    }
+  }
+  .div-9 {
+    color: #008000;
+    font: 9px/18px Inter, sans-serif;
+  }
+  .div-10 {
+    color: #201f1b;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 15px/161% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-10 {
+      max-width: 100%;
+    }
+  }
+  .div-11 {
+    align-self: start;
+    display: flex;
+    margin-top: 4px;
+    gap: 11px;
+  }
+  .div-12 {
+    color: #008000;
+    font: 9px/18px Inter, sans-serif;
+  }
+  .div-13 {
+    color: #201f1b;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 15px/160% Inter, sans-serif;
+  }
+  .div-14 {
+    color: #201f1b;
+    margin-top: 18px;
+    font: 15px/159% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-14 {
+      max-width: 100%;
+    }
+  }
+  .div-15 {
+    justify-content: center;
+    align-items: start;
+    border-radius: 8px;
+    border-color: rgba(106, 106, 106, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    margin-top: 11px;
+    color: #575757;
+    padding: 22px 17px;
+    font: 15px/105% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-15 {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .div-16 {
+    justify-content: center;
+    align-items: start;
+    border-radius: 8px;
+    border-color: rgba(106, 106, 106, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    margin-top: 16px;
+    color: #575757;
+    padding: 22px 17px;
+    font: 15px/104% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-16 {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .div-17 {
+    justify-content: center;
+    align-items: start;
+    border-radius: 8px;
+    border-color: rgba(106, 106, 106, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    margin-top: 16px;
+    color: #575757;
+    padding: 22px 17px;
+    font: 15px/104% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-17 {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .div-18 {
+    justify-content: center;
+    align-items: start;
+    border-radius: 8px;
+    border-color: rgba(106, 106, 106, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    margin-top: 16px;
+    color: #575757;
+    white-space: nowrap;
+    padding: 22px 17px;
+    font: 15px/105% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-18 {
+      max-width: 100%;
+      padding-right: 20px;
+      white-space: initial;
+    }
+  }
+  .div-19 {
+    color: #575757;
+    margin-top: 23px;
+    font: 13px/152% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-19 {
+      max-width: 100%;
+    }
+  }
+  .div-20 {
+    display: flex;
+    margin-top: 17px;
+    gap: 4px;
+  }
+  @media (max-width: 991px) {
+    .div-20 {
+      flex-wrap: wrap;
+    }
+  }
+  .div-21 {
+    display: flex;
+    gap: 3px;
+    font-size: 13px;
+    color: #575757;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .div-22 {
+    font-family: Inter, sans-serif;
+    line-height: 149%;
+    flex-grow: 1;
+  }
+  .div-23 {
+    color: #0f56a6;
+    font-family: Inter, sans-serif;
+    line-height: 160%;
+    text-decoration-line: underline;
+  }
+  .div-24 {
+    font: 14px/143% Inter, sans-serif;
+  }
+  .div-25 {
+    align-self: start;
+    display: flex;
+    gap: 0px;
+  }
+  .div-26 {
+    color: #0f56a6;
+    text-decoration-line: underline;
+    flex-grow: 1;
+    font: 13px/159% Inter, sans-serif;
+  }
+  .div-27 {
+    color: #575757;
+    font: 14px/143% Inter, sans-serif;
+  }
+  .div-28 {
+    display: flex;
+    margin-top: 20px;
+    gap: 8px;
+    font-size: 15px;
+    color: #0f56a6;
+    line-height: 24px;
+  }
+  @media (max-width: 991px) {
+    .div-28 {
+      flex-wrap: wrap;
+    }
+  }
+  .div-29 {
+    border-radius: 4px;
+    border-color: rgba(106, 106, 106, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #fff;
+    align-self: start;
+    width: 20px;
+    height: 20px;
+  }
+  .div-30 {
+    font-family: Inter, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  @media (max-width: 991px) {
+    .div-30 {
+      max-width: 100%;
+    }
+  }
+  .div-31 {
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    background-color: #fddb00;
+    margin-top: 29px;
+    color: #201f1b;
+    text-align: center;
+    padding: 18px 60px;
+    font: 500 15px/106% Inter, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-31 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+</style>
   .div {
     justify-content: center;
     border-color: rgba(219, 222, 235, 1);
@@ -115,3 +469,5 @@
     font: 400 12px/24px Inter, sans-serif;
   }
 </style>
+
+
